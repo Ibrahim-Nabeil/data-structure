@@ -1,2 +1,2 @@
-const item = 5;
-console.log(item);
+const item = 55;
+console.log(item++);
